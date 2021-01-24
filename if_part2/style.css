@@ -1,0 +1,24 @@
+/* Import Google Fonts*/
+
+@import url('https://fonts.googleapis.com/css2?family=Coda+Caption:wght@800&family=Hachi+Maru+Pop&display=swap');
+
+/* Update Header */
+
+h2 {
+  font-family: "Maru";
+  font-size: 40px;
+  color: purple;
+}
+
+h3 {
+  font-family: "Hachi";
+  font-size: 25px;
+  color: magenta;
+}
+
+body {
+  font-family: "Maru"
+  font-size: 18px;
+  color: teal;
+  background-color: yellow;
+}

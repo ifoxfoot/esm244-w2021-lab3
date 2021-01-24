@@ -1,0 +1,20 @@
+---
+title: "if_part2 customized Rmarkdown with CSS"
+author: "Iris Foxfoot"
+date: "1/23/2021"
+output: 
+  html_document:
+    css: "style.css"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is My Level Two Header
+
+### This is my Level Three Header
+
+#### This is my level Four header
+
+this is regular body text.
